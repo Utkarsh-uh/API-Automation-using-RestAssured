@@ -80,6 +80,7 @@ APIAutomationFramework/
 ## View HTML Report
 ```bash
 reports/API-TestReport.html
+```
 
 ---
 
